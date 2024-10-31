@@ -1,0 +1,20 @@
+# Ignore environment file
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Log files
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
